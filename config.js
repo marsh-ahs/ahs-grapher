@@ -159,6 +159,15 @@ const
 // Configure external links to appear at the bottom of the page. Displayed only if externalLinksBar (above) is true
 const linkSets = [
     {
+        label: "Github",
+        links: [
+            {
+                name: "Grapher Source",
+                url: "https://github.com/marsh-ahs/ahs-grapher"
+            },
+        ]
+    },
+    {
         label: "Discord Servers",
         links: [
             {
@@ -193,7 +202,8 @@ let headerLogoText = null,
     {
         name: "AHS Discord Server",
         url: "https://discord.gg/d9m2B3QR"
-    }
+    },
+    
 ];
 
 
