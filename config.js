@@ -38,7 +38,7 @@ const init_phones = ["HTH67"],                      // Optional. Which graphs to
 
 // Specify which targets to display
 const targets = [
-    { type:"User Target",    files:["WDYM"] },
+    { type:"User",    files:["Wdym"] },
 ];
 
 
