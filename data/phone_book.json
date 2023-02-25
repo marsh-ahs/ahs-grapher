@@ -1,3 +1,7 @@
 [
- 
+    {
+        "name":   "Test Target",
+        "suffix": "Test Target",
+        "phones": [ "wdym" ]
+      }
 ]
