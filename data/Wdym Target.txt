@@ -1,5 +1,4 @@
 * Measurement curve by Marshadoww
-* Source: 5128_DF_HRTF Filtered
 * Dated: Feb 25, 2023 5:32:00 PM
 * Measurement: EQ 5128_DF_HRTF
 * Smoothing: 1/48 octave
